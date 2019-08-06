@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KogniApp</string>
+    <string name="facebook_app_id">660552051077796</string>
+    <string name="fb_login_protocol_scheme">fb660552051077796</string>
+    <string name="go_next">Dalej</string>
+    <string name="log_test">Zalogowanyś</string>
+    <string name="wyslijDb">Dalej</string>
+</resources>
